@@ -1,3 +1,3 @@
 # Angular
 
-Purpose: Hold all of my Angular training.
+Purpose: Holds all of my Angular training.
